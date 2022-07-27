@@ -1,7 +1,7 @@
 footer
      {
-      margin-left: 205px;
-      margin-top: 20px;
+      margin-left: 190px;
+      margin-top: 30px;
       
      }
      section
@@ -34,17 +34,11 @@ footer
        }
        .row
        {
-        padding-left: 105px;
+        padding-left: 85px;
        }
        #car
        {
         padding-left: 7%;
         padding-bottom: 10%;
        }
-       @media only screen and (max-width:800px) 
-       {
-        .row
-        {
-            padding-right: 1000px;
-        }
-       }
+      
